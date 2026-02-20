@@ -1,7 +1,6 @@
 # 09 – Cleanup & Resource Deletion Guide (Ritual Roast)
 
 This document explains how to safely delete all AWS resources created for the Ritual Roast ECS Fargate project.
-
 ⚠️ Always delete resources in dependency order to avoid errors and unexpected charges.
 
 ---
