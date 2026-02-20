@@ -8,7 +8,7 @@ The goal of this project is to demonstrate how production-grade container worklo
 
 ## 🧱 Architecture Overview
 
-![Architecture](architecture/ecs-fargate-architecture.png)
+![Architecture](https://github.com/nileshbhurewar/ecs-fargate-project-deployment/blob/main/architecture-diagram/diagram.png)
 
 ---
 
