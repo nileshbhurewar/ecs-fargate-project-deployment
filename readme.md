@@ -43,7 +43,7 @@ The goal of this project is to demonstrate how production-grade container worklo
 
 Each step is documented in detail:
 
-- [VPC Setup](docs/01-vpc/02-ecr-setup.md-setup.md)
+- [VPC Setup]([docs/01-vpc/02-ecr-setup.md-setup.md](https://github.com/nileshbhurewar/ecs-fargate-project-deployment/blob/main/docs/01-vpc-setup.md))
 - [ECR Setup](docs)
 - [Docker Image Build](docs/03-docker-build.md)
 - [RDS Setup](docs/04-rds-setup.md)
